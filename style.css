@@ -1,0 +1,27 @@
+button{
+    
+    background-color: rgb(0, 255, 85);
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Horizontal */
+    align-items: center;    /* Vertical */
+    height: 100vh;
+}
+
+div {
+    width: 800x;
+    margin: 0 auto;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
